@@ -12,6 +12,6 @@ Berikut adalah daftar query SQL yang tersedia dalam repository ini:
 | 3  | `Query3.sql`    | Menampilkan **Top 10 cabang dengan Nett Sales tertinggi**. |
 | 4  | `Query4.sql`    | Menghitung **total profit per provinsi** (digunakan untuk **Geo Map** di Looker Studio). |
 | 5  | `Query5.sql`    | Menunjukkan **dampak diskon terhadap penjualan dan profit**. |
-| 6  | `Query6.sql`              | Menganalisis **tren penjualan per bulan**. |
+| 6  | `Query6.sql`    | Menganalisis **tren penjualan per bulan**. |
 
 Data ini digunakan untuk membangun **dashboard interaktif di Google Looker Studio**.
